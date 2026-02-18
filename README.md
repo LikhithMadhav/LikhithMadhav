@@ -94,18 +94,10 @@ I enjoy building **scalable, reliable systems** that process real-time data and 
 - Reduced manual effort by **30%**
 
 **Software Engineer — LTI Mindtree**  
-*Jun 2021 – Jun 2023*  
+*Jan 2021 – Jun 2023*  
 - Supported enterprise backend systems
 - Reduced system rework by **20%**
 - Participated in design & testing cycles
-
----
-
-## 📝 Publication
-
-**IoT-Based Monitoring System for Aquatic Ecosystem Health**  
-IEEE ICSC SS 2023  
-DOI: 10.1109/ICSCSS57650.2023.10169705  
 
 ---
 
