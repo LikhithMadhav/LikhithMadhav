@@ -111,4 +111,4 @@ I enjoy building **scalable, reliable systems** that process real-time data and 
 
 📧 likhithmadhavd@gmail.com  
 🌐 https://your-portfolio-link  
-💼 https://linkedin.com/in/your-link  
+💼 https://www.linkedin.com/in/likhith-d-5655a1388/ 
