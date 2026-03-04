@@ -16,7 +16,7 @@ https://github.com/likhithdasari
 📍 Chicago, IL, USA &nbsp;|&nbsp;
 📧 <a href="mailto:likhithmadhavd@gmail.com">likhithmadhavd@gmail.com</a> &nbsp;|&nbsp;
 🌐 <a href="https://your-portfolio-link">Portfolio</a> &nbsp;|&nbsp;
-💼 <a href="https://linkedin.com/in/your-link">LinkedIn</a>
+💼 <a href="https://www.linkedin.com/in/likhith-d-5655a1388/">LinkedIn</a>
 </p>
 
 ---
