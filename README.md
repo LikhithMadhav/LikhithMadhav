@@ -83,6 +83,26 @@ I enjoy building **scalable, reliable systems** that process real-time data and 
 - Improved reliability with redundancy & automation
 - Published at **ICSCSS 2023 (IEEE)**
 
+### Cloud-Native E-Commerce Order Management Platform
+- Developed a distributed order-management platform using Java, Spring Boot, PostgreSQL, and REST APIs to process 100K+ real Olist orders across customer, payment, inventory, and fulfillment services
+- Designed event-driven workflows using Kafka and Redis to coordinate asynchronous order-processing operations
+- Implemented retries, idempotency, and dead-letter queues to improve reliability and consistency across distributed transaction workflows
+- Containerized microservices using Docker and Kubernetes and automated deployments through CI/CD pipelines
+
+### Distributed Developer Activity Search & Insights Platform
+- Built Java/Spring Boot services to process GitHub activity events across developers, repositories, and technologies.
+- Implemented Kafka + Elasticsearch/OpenSearch asynchronous ingestion and low-latency search for large event datasets.
+- Developed REST APIs and a React dashboard with pagination, caching, automated testing, and exception handling. 
+- Containerized application components using Docker for repeatable deployment.
+
+### Real-Time Mobility Data Processing & Analytics Platform
+- Developed distributed Python/Spark pipelines to process and transform millions of NYC TLC taxi-trip records.
+- Built Kafka/Spark/AWS S3 ETL workflows for high-volume event ingestion, transformation, and aggregation.
+- Developed FastAPI/PostgreSQL REST APIs to expose processed metrics and data. 
+- Containerized application components using Docker for repeatable development and deployment.
+  
+<img width="468" height="303" alt="image" src="https://github.com/user-attachments/assets/0e260b77-39d9-4692-97d0-d41e96ef9597" />
+
 ---
 
 ## 🏢 Experience
