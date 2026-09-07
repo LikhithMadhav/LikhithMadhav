@@ -101,7 +101,7 @@ I enjoy building **scalable, reliable systems** that process real-time data and 
 - Developed FastAPI/PostgreSQL REST APIs to expose processed metrics and data. 
 - Containerized application components using Docker for repeatable development and deployment.
   
-<img width="468" height="303" alt="image" src="https://github.com/user-attachments/assets/0e260b77-39d9-4692-97d0-d41e96ef9597" />
+
 
 ---
 
