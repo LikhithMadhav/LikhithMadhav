@@ -14,7 +14,7 @@ https://github.com/likhithdasari
 
 <p align="center">
 📍 Chicago, IL, USA &nbsp;|&nbsp;
-📧 <a href="mailto:likhithmadhavd@gmail.com">likhithmadhavd@gmail.com</a> &nbsp;|&nbsp;
+📧 <a href="mailto:likhithmadhav2k@gmail.com">likhithmadhav2k@gmail.com</a> &nbsp;|&nbsp;
 🌐 <a href="https://your-portfolio-link">Portfolio</a> &nbsp;|&nbsp;
 💼 <a href="https://www.linkedin.com/in/likhith-d-5655a1388/">LinkedIn</a>
 </p>
@@ -87,14 +87,14 @@ I enjoy building **scalable, reliable systems** that process real-time data and 
 
 ## 🏢 Experience
 
-**Software Engineer — Community Dreams Foundation**  
-*Jul 2025 – Present*  
+**Software Engineer — American Express**  
+*Jul 2024 – Present*  
 - Built backend analytics workflows
 - Improved reporting efficiency by **40%**
 - Reduced manual effort by **30%**
 
-**Software Engineer — LTI Mindtree**  
-*Jan 2021 – Jun 2023*  
+**Software Engineer — Lowes**  
+*Aug 2021 – Jul 2023*  
 - Supported enterprise backend systems
 - Reduced system rework by **20%**
 - Participated in design & testing cycles
@@ -109,6 +109,6 @@ I enjoy building **scalable, reliable systems** that process real-time data and 
 
 ## 📫 Let’s Connect
 
-📧 likhithmadhavd@gmail.com  
+📧 likhithmadhav2k@gmail.com 
 🌐 https://your-portfolio-link  
 💼 https://www.linkedin.com/in/likhith-d-5655a1388/ 
